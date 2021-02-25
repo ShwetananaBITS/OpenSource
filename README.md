@@ -20,7 +20,7 @@ I have 5 years of experience in Software Development. I worked on various techno
 
 **Work Experience:**
  
-** Microsoft:**  Software Engineer, 2016-Current
+**Microsoft:**  Software Engineer, 2016-Current
 
 **Cyabage Software Pvt Ltd:** Software Engineer, 2015-2016
 
